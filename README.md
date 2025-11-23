@@ -4,7 +4,7 @@
 <!-- You can host images in a repo's assets folder or use services like imgur -->
 <!-- Example: <img src="https://github.com/sridharankaliyamoorthy/sridharankaliyamoorthy/blob/main/assets/banner.gif?raw=true" alt="Banner" /> -->
 
-<h1 align="center">Sri — AI /ML Engineer | Python geek, Algorithms, AI Cloud Automation | Passionate about Workflow Automation & Machine Learning | VFX Expert>
+<h1 align="center"><Sri — AI /ML Engineer | Python geek, Algorithms, AI Cloud Automation | Passionate about Workflow Automation & Machine Learning | VFX Expert>
 
 <p align="center">
 Building automation systems, orchestration pipelines, and intelligent agents that remove operational friction and scale real-world workflows.
