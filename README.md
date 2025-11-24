@@ -17,10 +17,6 @@
   <a href="mailto:srivfxsup@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <!-- Add your portfolio URL below when ready -->
-  <!-- <a href="your-portfolio-link" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=About.me&logoColor=white" alt="Portfolio" />
-  </a> -->
 </p>
 
 </div>
@@ -95,7 +91,22 @@ Our team was selected to advance to the global finals, among 12 global teams, at
 
 ## 🚀 Selected Work
 
-... *(retain your other projects and GitHub stats as before)*
+### ProActive CSI – Compliance Automation Engine
+Multi-agent workflow running:
+- Data aggregation (Cloudant, APIs)
+- Risk scoring (watsonx.ai models)
+- Priority summaries for CFO/management
+- Automated email actions
+
+### RETENX – Orchestrated Workflow Platform
+RetenX is an AI-powered multi-agent system that proactively identifies and mitigates customer, procurement, and financial risks before they escalate, helping enterprises protect revenue and customer relationships.
+
+### DigiEduHack @ 42 Prague 2025 (Winning Hackathon Work)
+Built an open-source data infrastructure for 5,000+ Czech schools—see "Major Achievement" for details.
+
+![image1](image1)
+
+I build systems that actually ship—not concept pieces.
 
 ---
 
