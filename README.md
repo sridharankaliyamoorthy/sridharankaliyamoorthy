@@ -3,7 +3,7 @@
 <!-- Banner/Header Image - Replace with your own hosted image or GIF -->
 <!-- You can host images in a repo's assets folder or use services like imgur -->
 <!-- Example: <img src="https://github.com/sridharankaliyamoorthy/sridharankaliyamoorthy/blob/main/assets/banner.gif?raw=true" alt="Banner" /> -->
-<h1 align="center">Sri — AI /ML Engineer | Python geek, Algorithms, AI Cloud Automation | Passionate about Workflow Automation & Machine Learning | VFX Expert </h1>
+<h1 align="center">Sri — AI /ML Engineer | Python Nerd |  Algorithms |  AI Cloud Automation | Passionate about AI Workflow Automation & Machine Learning | VFX Expert </h1>
 
 
 
