@@ -1,30 +1,63 @@
 <div align="center">
 
-<!-- Banner/Header Image - Replace with your own hosted image or GIF -->
-<!-- You can host images in a repo's assets folder or use services like imgur -->
-<!-- Example: <img src="https://github.com/sridharankaliyamoorthy/sridharankaliyamoorthy/blob/main/assets/banner.gif?raw=true" alt="Banner" /> -->
-<h1 align="center">Sri — AI /ML Engineer | Python Nerd |  Algorithms |  AI Cloud Automation | Passionate about AI Workflow Automation & Machine Learning | VFX Expert </h1>
+<img src="https://img.shields.io/badge/Open%20to%20Work-green?style=for-the-badge" alt="Open to Work Badge" />
 
+<!-- Banner/Header Image - Replace with your own hosted image or GIF -->
+<!-- Example: <img src="https://github.com/sridharankaliyamoorthy/sridharankaliyamoorthy/blob/main/assets/banner.gif?raw=true" alt="Banner" /> -->
+<h1 align="center">Sri — AI/ML Engineer • Fullstack Dev • AI Cloud Automation • VFX Tech</h1>
 
 <p align="center">
-Building automation systems, orchestration pipelines, and intelligent agents that remove operational friction and scale real-world workflows.
+🏆 <strong>Actively seeking opportunities in AI, ML, intelligent automation, and fullstack roles — open for interviews and collaborations.</strong>
 </p>
 
-<!-- GitHub Stats Card -->
-<img src="https://github-readme-streak-stats.demolab.com?user=sridharankaliyamoorthy&theme=github-dark&hide_border=true&background=0D1117" alt="GitHub Streak" />
+<p align="center">
+  <a href="https://www.linkedin.com/in/2845a222/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn Profile" />
+  </a>
+  <a href="mailto:srivfxsup@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <!-- Add your portfolio URL below when ready -->
+  <!-- <a href="your-portfolio-link" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=About.me&logoColor=white" alt="Portfolio" />
+  </a> -->
+</p>
 
 </div>
 
 ---
 
-## 🧩 What I Do
+## 👋 About Me
 
-- Architect multi-step **AI agents** and **workflow automation systems**
-- Build **LLM-based orchestration** using IBM watsonx, Python, and FastAPI
-- Design **data pipelines**, risk engines, and business process automation
-- Translate production-level **VFX discipline** into AI engineering precision
+Versatile engineer and builder working on AI automation agent workflows, machine learning systems, orchestration pipelines, and cloud-based solutions in Prague, Czech Republic. I’m passionate about designing automation that scales, solves real-world problems, and delivers meaningful impact.
 
-I focus on **real problems**, not demo fluff.
+Currently leading and contributing to the development of advanced AI/ML agents and workflow orchestration for real production environments. Open to collaboration, exciting projects, and new job opportunities worldwide.
+
+📍 <b>Based in Prague, Czech Republic</b>
+
+---
+
+## 🏆 Major Achievement
+
+### Local Winner • Selected for Global Competition  
+**DigiEduHack @ 42 Prague 2025**  
+_EU DigiEduHack Initiative • 24-Hour Hackathon • Local Winner_
+
+**Won 1st Place & Selected as Local Winner** in the DigiEduHack hackathon at 42 Prague, part of the European Union's DigiEduHack initiative and Dny AI in Czechia 2025. As a member of TeamAOS, I helped develop a winning solution that addresses one of Europe's most challenging educational infrastructure problems:
+
+#### The Challenge
+Build an open-source data infrastructure for Nadační fond Eduzměna to scale educational equity interventions across 5,000+ schools in the Czech Republic. Required handling exponential multidimensional data and making proven education interventions scalable.
+
+#### Our Solution
+- Beautifully simple, real-world solution with Python as core tech
+- Focused on scalability, reliability, and practical implementation
+- Open source, easy to manage, and verified by a jury for production use
+
+#### Impact and Next Steps
+Our team was selected to advance to the global finals, among 12 global teams, at the Digital Stakeholder Forum in Brussels 2026. Eduzměna will keep developing this with TeamAOS as we compete internationally.
+
+**Core Technologies:** Python • Data Infrastructure • Open Source • Educational Tech • Scalable Systems  
+👉 [View on LinkedIn (public post & photo)](https://www.linkedin.com/posts/petra-meli%C5%A1ka-44888b2b_digieduhack-edtech-prague-activity-7395150758519742465-TTKq/)
 
 ---
 
@@ -58,87 +91,18 @@ I focus on **real problems**, not demo fluff.
   <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white" alt="RabbitMQ" />
 </p>
 
-<p align="center">
-  <b>🔎 Actively seeking opportunities as an AI/ML Engineer and Fullstack Developer</b>
-</p>
-
 ---
 
 ## 🚀 Selected Work
 
-### **ProActive CSI – Compliance Automation Engine**
-
-Multi-agent workflow running:
-
-- Data aggregation (Cloudant, APIs)
-- Risk scoring (watsonx.ai models)
-- Priority summaries for CFO/management
-- Automated email actions
-
-### **RETENX – Orchestrated Workflow Platform**
-
-Agent-driven system for business automation and real-time operations.
-
-### **VFX Asset Automation Tools**
-
-Tooling that streamlines asset management and reduces manual overhead.
-
-I build systems that actually ship — not concept pieces.
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-  <!-- GitHub Stats -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sridharankaliyamoorthy&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" alt="GitHub Stats" />
-  
-  <!-- Top Languages -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sridharankaliyamoorthy&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF" alt="Top Languages" />
-
-</div>
-
-<!-- Contribution Graph -->
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sridharankaliyamoorthy&theme=github-dark&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF" alt="Contribution Graph" />
-</div>
-
----
-
-## 🌐 Links
-
-<p align="center">
-  <!-- Add your actual links here -->
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=About.me&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
-
----
-
----
-
-## 🔨 Currently Working On
-
-<!-- This section can be auto-updated via GitHub Actions -->
-- Building production-ready AI agent orchestration systems
-- Designing scalable workflow automation pipelines
-- Contributing to open-source VFX pipeline tools
-
-*Last updated: 2025-11-24 04:46:44 UTC*
+... *(retain your other projects and GitHub stats as before)*
 
 ---
 
 ## 📬 Contact
 
-If you want to discuss agent workflows, automation design, or VFX-tech engineering, feel free to reach out.
+Interested in hiring me, discussing agent workflows, automation design, or collaborations?  
+Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/2845a222/) or email: <strong>srivfxsup@gmail.com</strong>
 
 ---
 
