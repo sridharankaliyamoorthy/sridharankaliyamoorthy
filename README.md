@@ -7,15 +7,14 @@
 <h1 align="center">Sri — AI/ML Engineer • Fullstack Dev • AI Cloud Automation • VFX Tech</h1>
 
 <p align="center">
-🏆 <strong>Actively seeking opportunities in AI, ML, intelligent automation, and fullstack roles — open for interviews and collaborations.</strong>
-</p>
-
-<p align="center">
   <a href="https://www.linkedin.com/in/2845a222/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn Profile" />
   </a>
   <a href="mailto:srivfxsup@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://sridharankaliyamoorthy.github.io/" target="_blank">
+    <img src="https://img.shields.io/badge/View%20my%20CV-000000?style=flat-square&logo=About.me&logoColor=white" alt="Portfolio/CV" />
   </a>
 </p>
 
@@ -25,9 +24,9 @@
 
 ## 👋 About Me
 
-Versatile engineer and builder working on AI automation agent workflows, machine learning systems, orchestration pipelines, and cloud-based solutions in Prague, Czech Republic. I’m passionate about designing automation that scales, solves real-world problems, and delivers meaningful impact.
+Python is my core skill — I build intelligent systems, scalable web applications, advanced AI agent workflows, and automate infrastructure with Python and its powerful ecosystem. Expert in the Python stack for AI/ML, web development, data processing, and DevOps, I bring production-grade precision, discipline, and reliability to code. My journey from visual effects and animation pipelines to software engineering gives me pragmatic, hands-on mastery of engineering for deployment at scale. I create end-to-end platforms that unite full-stack development, automation, and cloud—always with a deep focus on reliability and results.
 
-Currently leading and contributing to the development of advanced AI/ML agents and workflow orchestration for real production environments. Open to collaboration, exciting projects, and new job opportunities worldwide.
+Currently leading and contributing to advanced AI/ML agent orchestration for real production environments. Strong knowledge in AI agent automation and workflow orchestration. Open to collaboration, exciting projects, and new job opportunities worldwide.
 
 📍 <b>Based in Prague, Czech Republic</b>
 
@@ -45,14 +44,14 @@ _EU DigiEduHack Initiative • 24-Hour Hackathon • Local Winner_
 Build an open-source data infrastructure for Nadační fond Eduzměna to scale educational equity interventions across 5,000+ schools in the Czech Republic. Required handling exponential multidimensional data and making proven education interventions scalable.
 
 #### Our Solution
-- Beautifully simple, real-world solution with Python as core tech
-- Focused on scalability, reliability, and practical implementation
-- Open source, easy to manage, and verified by a jury for production use
+- Built with Python as core tech for manageability and scalability
+- Focused on real-world production, reliability, and open-source best practices
+- Solution praised for practical implementation and ready-to-run nature by the jury
 
 #### Impact and Next Steps
-Our team was selected to advance to the global finals, among 12 global teams, at the Digital Stakeholder Forum in Brussels 2026. Eduzměna will keep developing this with TeamAOS as we compete internationally.
+Our team advances to the global finals, among 12 global teams, at the Digital Stakeholder Forum in Brussels 2026. Eduzměna will further develop this with TeamAOS as we compete internationally.
 
-**Core Technologies:** Python • Data Infrastructure • Open Source • Educational Tech • Scalable Systems  
+**Core Technologies:** Python • Data Infrastructure • Open Source • Educational Tech • Scalable Systems
 👉 [View on LinkedIn (public post & photo)](https://www.linkedin.com/posts/petra-meli%C5%A1ka-44888b2b_digieduhack-edtech-prague-activity-7395150758519742465-TTKq/)
 
 ---
@@ -113,7 +112,7 @@ I build systems that actually ship—not concept pieces.
 ## 📬 Contact
 
 Interested in hiring me, discussing agent workflows, automation design, or collaborations?  
-Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/2845a222/) or email: <strong>srivfxsup@gmail.com</strong>
+Reach out via [LinkedIn](https://www.linkedin.com/in/2845a222/), [Email me](mailto:srivfxsup@gmail.com), or [View my CV/Portfolio](https://sridharankaliyamoorthy.github.io/)
 
 ---
 
