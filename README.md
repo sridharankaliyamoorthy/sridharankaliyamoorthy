@@ -24,18 +24,22 @@
 
 ## 👋 About Me
 
-Python is my core skill — I build intelligent systems, scalable web applications, advanced AI agent workflows, and automate infrastructure with Python and its powerful ecosystem. Expert in the Python stack for AI/ML, web development, data processing, and DevOps, I bring production-grade precision, discipline, and reliability to code. My journey from visual effects and animation pipelines to software engineering gives me pragmatic, hands-on mastery of engineering for deployment at scale. I create end-to-end platforms that unite full-stack development, automation, and cloud—always with a deep focus on reliability and results.
+Versatile engineer, builder, and workflow architect focused on solving real-world problems at scale with AI, automation, and cloud. Python is my core skill—I'm passionate about building intelligent systems, scalable web applications, and automating infrastructure using Python's powerful ecosystem.
 
-Currently leading and contributing to advanced AI/ML agent orchestration for real production environments. Strong knowledge in AI agent automation and workflow orchestration. Open to collaboration, exciting projects, and new job opportunities worldwide.
+Expert in Python for AI/ML, web development, data processing, and automation—from LLM agent orchestration to production-ready backend and full-stack systems. My journey began in visual effects and animation production pipelines, where I learned precision and delivery. I now bring that discipline and production-grade reliability to software—delivering solutions that unite AI workflow automation, DevOps, and full-stack engineering.
 
-📍 <b>Based in Prague, Czech Republic</b>
+Currently leading and contributing to the development of advanced AI/ML agents, multi-agent orchestration, and workflow automation in real production environments. I have strong hands-on mastery in AI agent automation, orchestration pipelines, and deploying robust systems for measurable impact.
+
+Open to new job opportunities, exciting collaborations, or projects anywhere in the world.
+
+📍 **Based in Prague, Czech Republic**
 
 ---
 
 ## 🏆 Major Achievement
 
-### Local Winner • Selected for Global Competition  
-**DigiEduHack @ 42 Prague 2025**  
+### Local Winner • Selected for Global Competition
+**DigiEduHack @ 42 Prague 2025**
 _EU DigiEduHack Initiative • 24-Hour Hackathon • Local Winner_
 
 **Won 1st Place & Selected as Local Winner** in the DigiEduHack hackathon at 42 Prague, part of the European Union's DigiEduHack initiative and Dny AI in Czechia 2025. As a member of TeamAOS, I helped develop a winning solution that addresses one of Europe's most challenging educational infrastructure problems:
